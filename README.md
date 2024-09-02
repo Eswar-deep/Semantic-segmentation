@@ -1,4 +1,5 @@
 "This project is built for my learning purposes and I am not the original author of this project"
+
 Dependencies can be installed through requirements.txt or Pipfile.
 
 The dataset needs to be downloaded from [Berkeley Deep Drive.](https://bdd-data.berkeley.edu/)https://bdd-data.berkeley.edu/
