@@ -1,3 +1,4 @@
+"This project is built for my learning purposes and I am not the original author of this project"
 Dependencies can be installed through requirements.txt or Pipfile.
 
 The dataset needs to be downloaded from [Berkeley Deep Drive.](https://bdd-data.berkeley.edu/)https://bdd-data.berkeley.edu/
@@ -28,7 +29,7 @@ The following files are present in `src` folder:
 
 ## Results
 
-See my results and conclusions:
+See the results and conclusions:
 
 - [Results & Conclusions](https://www.wandb.com/articles/semantic-segmentation-for-self-driving-cars)
 - [W&B report](https://app.wandb.ai/borisd13/semantic-segmentation/reports?view=borisd13%2FSemantic%20Segmentation%20Report)
